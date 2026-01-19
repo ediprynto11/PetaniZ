@@ -63,8 +63,8 @@ yang mampu memantau kondisi lingkungan tanaman secara real-time serta mendeteksi
 ---
 
 ## 👨‍💻 Author
-Edi Priyanto
-Mahasiswa / Pengembang IoT & AI
+**Edi Priyanto**  
+Mahasiswa | IoT & AI Enthusiast
 📌 Fokus: Android, IoT, Machine Learning
 
 🔗 GitHub: https://github.com/ediprynto11
