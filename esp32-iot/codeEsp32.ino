@@ -15,12 +15,12 @@
 #include "DHT.h"
 
 // ============== WIFI ==================
-#define WIFI_SSID "P CELL"
-#define WIFI_PASSWORD "11223344"
+#define WIFI_SSID "YOUR_WIFI"
+#define WIFI_PASSWORD "YOUR_PASSWORD"
 
 // ============== FIREBASE ==============
-#define API_KEY "AIzaSyCNQihEUw7DAWjnzjK-x5yRqaMcql1UcNY"
-#define DATABASE_URL "petaniz-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define API_KEY "YOUR_FIREBASE_API_KEY"
+#define DATABASE_URL "YOUR_FIREBASE_URL"
 
 // ============== OBJEK =================
 FirebaseData fbdo;
