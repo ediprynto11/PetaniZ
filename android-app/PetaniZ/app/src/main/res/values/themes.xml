@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PetaniZ" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:windowLightStatusBar">true</item> <!-- icon hitam -->
+        <item name="android:navigationBarColor">@android:color/white</item> <!-- opsional -->
+    </style>
+
+    <style name="Theme.PetaniZ" parent="Base.Theme.PetaniZ" />
+</resources>
