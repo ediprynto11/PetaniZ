@@ -68,4 +68,4 @@ Mahasiswa | IoT & AI Enthusiast<br>
 📌 Fokus: Android, IoT, Machine Learning
 
 🔗 GitHub: https://github.com/ediprynto11<br>
-🔗 LinkedIn: 
+🔗 LinkedIn: www.linkedin.com/in/edi-priyanto-b94b02317
